@@ -48,3 +48,7 @@
 .text-sm {
   font: var(--text-paragraph);
 }
+
+.text-ct {
+  font: 400 14px/140% var(--font-family2);
+}

@@ -105,5 +105,17 @@ section header {
     grid-area: C;
     width: 488px;
     height: 544px;
+    gap: 24px;
+    margin-bottom: 80px;
+    img {
+      width: 72px;
+      height: 72px;
+    }
+    span {
+      margin-block: 2px 8px;
+    }
+    article {
+      gap: 15px;
+    }
   }
 }

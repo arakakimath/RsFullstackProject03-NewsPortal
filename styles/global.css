@@ -13,6 +13,7 @@
   --text-color-secondary: #CBD5E1;
 
   --font-family: 'Archivo', sans-serif;
+  --font-family2: 'Archivo black', sans-serif;
   --text-h1: 800 24px/135% var(--font-family);
   --text-h2: 800 16px/140% var(--font-family);
   --text-h3: 800 14px/140% var(--font-family);
