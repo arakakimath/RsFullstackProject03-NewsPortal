@@ -2,6 +2,13 @@
   display: grid;
 }
 
+.grid-area {
+  grid-template-areas:
+  "A B"
+  "A C";
+  gap: 32px;
+}
+
 .grid-flow-col {
   grid-auto-flow: column;
 }
@@ -12,6 +19,10 @@
 
 .gap-16 {
   gap: 16px;
+}
+
+.gap-32 {
+  gap: 32px;
 }
 
 .text-2xl {

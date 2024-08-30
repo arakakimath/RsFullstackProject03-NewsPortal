@@ -82,3 +82,28 @@ section header {
   }
 }
 
+#final-section {
+  #ai{
+    grid-area: A;
+    width: 696px;
+    height: 856px;
+    gap: 24px;
+    img {
+      height: 176px;
+      width: 176px;
+    }
+    span {
+      margin-block: 6px 8px;
+    }
+  }
+  #ads{
+    grid-area: B;
+    width: 488px;
+    height: 280px;
+  }
+  #more{
+    grid-area: C;
+    width: 488px;
+    height: 544px;
+  }
+}
